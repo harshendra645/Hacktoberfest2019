@@ -13,6 +13,7 @@ declare header="Bash 2048 v1.1 (https://github.com/mydzor/bash2048)"
 
 declare -i start_time=$(date +%s)
 
+
 #default config
 declare -i board_size=4
 declare -i target=2048
